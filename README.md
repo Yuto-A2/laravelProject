@@ -36,12 +36,14 @@ I downloaded breeze to make login menu, so I handle user's table by using it.
 
 ---
 
-- If you were unable to complete the assignment, explain what you wanted to do and why you couldn't complete it. 
+- If you were unable to complete the assignment, explain what you wanted to do and why you couldn't complete it.
+  
 When I try add orders and update orders, 403 error comes up. I  would like to practice laravel more and be used to using it.
 
 ---
 
-- Your thoughts on Laravel and if you wanted to cover anything else in the class to supplement your learnings
+- Your thoughts on Laravel and if you wanted to cover anything else in the class to supplement your learnings.
+  
 For now, it is easier for me to use php, but I believe laravel is more useful when I get used to it because I could create login page more easily than php.
 
 I also did not have to write SQL query, so Laravel would be useful tool.
