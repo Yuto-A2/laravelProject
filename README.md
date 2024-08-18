@@ -22,7 +22,7 @@ I downloaded breeze to make login menu, so I handle user's table by using it.
 <img src="/public/img/AddCustomer.jpg">
 
 - Now, I added Test User and I am going to edit and delete it.
-<img src="/public/img/AddedCustomer.jpg">
+<img src="/public/img/AddedCustomer.jpg" alt="AddedCustomer">
 
 - Now, the customer's name is Laravel
 <img src="/public/img/UpdateCustomer.jpg">
