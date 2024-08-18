@@ -38,7 +38,7 @@ I downloaded breeze to make login menu, so I handle user's table by using it.
 
 ## If you were unable to complete the assignment, explain what you wanted to do and why you couldn't complete it.
   
-When I try add orders and update orders, 403 error comes up. I  would like to practice laravel more and be used to using it.
+When I try to add orders and update orders, 403 error comes up. I  would like to practice laravel more and be used to using it.
 
 ---
 
