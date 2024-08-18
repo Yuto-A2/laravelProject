@@ -26,7 +26,7 @@ I downloaded breeze to make login menu, so I handle user's table by using it.
 
 - Now, the customer's name is Laravel
 <img src="/public/img/UpdateCustomer.jpg">
-<img src="/public/img/UpdatedCustomer.jpg">
+<img src="/public/img/updateScreen.jpg">
 
 - I clicked the delete button and it has gone.
 <img src="/public/img/DeletedCustomer.jpg">
