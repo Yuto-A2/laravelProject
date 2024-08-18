@@ -19,20 +19,20 @@ I downloaded breeze to make login menu, so I handle user's table by using it.
 ## Demo
 
 - Users can add customers information.
-<img src="/public/img/AddCustomer.jpg">
+<img src="/public/img/AddCustomer.jpg" alt="AddCustomer">
 
 - Now, I added Test User and I am going to edit and delete it.
 <img src="/public/img/AddedCustomer.jpg" alt="AddedCustomer">
 
 - Now, the customer's name is Laravel
-<img src="/public/img/UpdatedCustomer.jpg">
-<img src="/public/img/updateScreen.jpg">
+<img src="/public/img/UpdatedCustomer.jpg" alt="UpdatedCustomer">
+<img src="/public/img/updateScreen.jpg" alt="UpdatedScreen">
 
 - I clicked the delete button and it has gone.
-<img src="/public/img/DeletedCustomer.jpg">
+<img src="/public/img/DeletedCustomer.jpg" alt="DeletedCustomer">
 
 -  When I click the dashboard on the menu, we have dashboard.
-<img src="/public/img/dashboard.jpg">
+<img src="/public/img/dashboard.jpg" alt="dashboard">
 
 ---
 
