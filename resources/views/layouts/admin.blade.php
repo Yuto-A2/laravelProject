@@ -29,6 +29,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/orders/create">Order</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/dashboard">Dashboard</a>
+                        </li>
                     </ul>
                 </div>
             </div>
